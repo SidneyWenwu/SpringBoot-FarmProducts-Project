@@ -39,15 +39,113 @@
 - **系统管理**：  管理员可以管理系统设置，包括配置系统参数、管理公告信息等。
 - **订单管理**： 管理员可以查看和管理订单，包括订单状态更新、订单详情查看等。
 
-### 项目视频展示
-
-![cover](https://github.com/SidneyWenwu/SpringBoot-FarmProducts-Project/blob/main/file/1697444043395.png)
-
-
-
-
+### 三、项目视频展示（点击即可跳转）
 
 [![视频](https://github.com/SidneyWenwu/SpringBoot-FarmProducts-Project/blob/main/file/1697444043395.png)](https://www.bilibili.com/video/BV1h34y1M7ab/?vd_source=682d900a893be9a21cc2cf244f7c9b87)
+
+### 四、项目图片展示
+
+#### 1、前台
+
+![登录](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/front-login.png)
+
+![注册](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/front-register.png)
+
+![1](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/front-1.png)
+
+![2](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/front-2.png)
+
+![3](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/front-3.png)
+
+![4](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/front-4.png)
+
+![5](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/front-5.png)
+
+![6](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/front-6.png)
+
+#### 2、后台
+
+![登录](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-login.png)
+
+![1](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+
+![2](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+
+![3](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+
+![4](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+
+![5](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+
+![6](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+
+![7](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+
+![8](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+
+![9](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-9.png)
+
+### 五、安装步骤
+
+#### 1、数据库建库，运行SQL语句
+
+![1db](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/1db.png)
+
+#### 2、Idea配置好yml文件后运行
+
+![1idea](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/1idea.png)
+
+#### 3、新打开IDEA窗口，运行front前台文件夹
+
+![2idea](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/2idea.png)
+
+#### 4、运行前台，打开VSCode
+
+```java 
+1、cnpm install
+2、cnpm run serve
+```
+
+或者
+
+```java 
+1、npm install
+2、npm run serve
+```
+
+#### 5、访问地址
+
+前台：http://localhost:63342/front/index.html?_ijt=egpvqf8bq7qdbgc49aksin7i1g&_ij_reload=RELOAD_ON_SAVE（账号密码：zhangsan/123456）
+
+后台：http://localhost:8081/（账号密码：admin/admin）
+
+### 六、框架技术
+
+* element-UI
+
+* Lay-UI
+
+* HTML5
+
+* JavaScript
+
+* CSS
+
+* SpringBoot
+
+* Maven
+
+* myBatis
+
+* Shior
+
+  
+
+
+
+
+
+
 
 
 
