@@ -1,7 +1,7 @@
 # SpringBoot-FarmProducts
 ## 基于SpringBoot农产品销售管理系统
 
-基于Springboot+vue.js的学习项目，通过Springboot整合了SpringMVC,Spring Data JPA,MyBatisPlus、Junit等技术
+基于Springboot+vue.js的学习项目，通过Springboot整合了SpringMVC,Spring Data JPA,MyBatisPlus、Junit等技术。 **本项目不在维护，如有任何问题或者需要源码，请联系我**
 
 ### 一、项目介绍
 
@@ -141,9 +141,17 @@
 
   
 
+### 交流
 
+ **本项目不在维护，如有任何问题或者需要源码，请联系我**
 
+![addWechat](https://github.com/SidneyWenwu/CommonResource/blob/main/ContactMe/addWechat.png)
 
+### 创作不易，给点赏银
+
+![addWechat](https://github.com/SidneyWenwu/CommonResource/blob/main/ContactMe/wechat.png)
+
+![addWechat](https://github.com/SidneyWenwu/CommonResource/blob/main/ContactMe/alipay.png)
 
 
 
