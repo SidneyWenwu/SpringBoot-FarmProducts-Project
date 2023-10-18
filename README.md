@@ -69,19 +69,19 @@
 
 ![1](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
 
-![2](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
+![2](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-2.png)
 
-![3](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
+![3](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-3.png)
 
-![4](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
+![4](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-4.png)
 
-![5](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
+![5](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-5.png)
 
-![6](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
+![6](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-6.png)
 
-![7](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
+![7](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-7.png)
 
-![8](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
+![8](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-8.png)
 
 ![9](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-9.png)
 
