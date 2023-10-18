@@ -65,39 +65,39 @@
 
 #### 2、后台
 
-![登录](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-login.png)
+![登录](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-login.png)
 
-![1](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+![1](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
 
-![2](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+![2](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
 
-![3](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+![3](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
 
-![4](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+![4](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
 
-![5](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+![5](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
 
-![6](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+![6](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
 
-![7](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+![7](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
 
-![8](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-1.png)
+![8](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-1.png)
 
-![9](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/admin-9.png)
+![9](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/admin-9.png)
 
 ### 五、安装步骤
 
 #### 1、数据库建库，运行SQL语句
 
-![1db](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/1db.png)
+![1db](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/1db.png)
 
 #### 2、Idea配置好yml文件后运行
 
-![1idea](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/1idea.png)
+![1idea](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/1idea.png)
 
 #### 3、新打开IDEA窗口，运行front前台文件夹
 
-![2idea](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/2idea.png)
+![2idea](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-FarmProducts/image/2idea.png)
 
 #### 4、运行前台，打开VSCode
 
